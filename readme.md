@@ -21,7 +21,7 @@ Python 3
     - Excel.
     - etc.
 - Wrangling messy and dirty datasets:
-    - cleaning missing, duplicated, and wrong data.
+    - Cleaning missing, duplicated, and wrong data.
     - Organizing, joining and separating unorganized data.
     
 - Analyzing trends in the data:
