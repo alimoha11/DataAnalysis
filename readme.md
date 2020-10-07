@@ -15,19 +15,18 @@ Python 3
 - random
 
 # Learnings:
->- Several methods to extract and manipulate datasets:
+- Several methods to extract and manipulate datasets:
     - SQL.
     - APIs. (e.g. tweepy API)
     - Excel.
     - etc.
-> - Wrangling messy and dirty datasets:
+- Wrangling messy and dirty datasets:
     - cleaning missing, duplicated, and wrong data.
     - Organizing, joining and separating unorganized data.
     
->- Analyzing trends in the data:
+- Analyzing trends in the data:
     - Assessing univariate/ bivariate/ and multivariate relationships. 
     - Using practical statistics to test hypotheses and spot correlations/regression
 
->- Visualizing and representing findings : 
+- Visualizing and representing findings : 
     -   Visualizing data in a clear and concise way to appeal to both technical & non-technical audience.
-
