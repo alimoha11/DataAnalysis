@@ -2,7 +2,7 @@
 ## Introduction
 Udacity Data Analysis Nanodegree (DAND) given me a steep learning curve into Data Anlaysis. With its main focus on practical skills, each course contained an involving project about real world problems in different fields. Each folder represents one project and they're ordered by complexiy and involvement.
 
-# Libraries Used:
+## Libraries Used:
 Python 3
 - numpy
 - pandas
@@ -14,7 +14,7 @@ Python 3
 - os
 - random
 
-# Learnings:
+## Learnings:
 - Using several methods to extract and manipulate datasets:
     - SQL.
     - APIs. (e.g. tweepy API)
