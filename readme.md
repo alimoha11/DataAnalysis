@@ -15,7 +15,7 @@ Python 3
 - random
 
 # Learnings:
-- Several methods to extract and manipulate datasets:
+- Using several methods to extract and manipulate datasets:
     - SQL.
     - APIs. (e.g. tweepy API)
     - Excel.
